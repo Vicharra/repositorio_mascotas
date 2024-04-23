@@ -1,0 +1,56 @@
+nav a:hover{
+    text-decoration: underline;
+}
+
+
+#asd {
+    font-size: 15px;
+    background-color: antiquewhite;
+    margin-left:350px;
+}
+
+#uwu {
+    font-size: 20px;
+    display:flex;
+}
+
+.card img{
+    width: 250px;
+    height: 250px;
+}
+
+.card{
+    text-align: center;
+    margin: 100px;
+    background-color: aliceblue;
+}
+
+
+.xdxd {
+    margin-top: 100px;
+}
+
+#uwu input{
+    text-align: center;
+    display: flex;
+    margin-left: 250px;
+
+}
+
+#owo{
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+
+#carouselExample{
+    width: 100%;
+    height: 50%;
+}
+
+div button{
+    align-items: center;
+    margin:10px;
+    padding: auto;
+}
+
+
